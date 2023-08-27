@@ -1,0 +1,41 @@
+form {
+    width: 800px;
+    margin: 100px auto;
+    border: 2px solid #303F9F;
+    margin-top: 15px;
+    padding:20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    transform: rotate(0deg);
+}
+body {
+    font-size: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #d7edf5;
+    
+}
+h3 { 
+    font-size: 25px;
+    color:blue;
+}
+
+label {
+    width: 200px;
+    display: inline-block;
+   
+}
+
+input[id], select {
+    padding: 8px;
+    width: 320px;
+    background-color: salmon;
+    border: none;
+}
+button {
+    width: 140px;
+    height: 40px;
+    border: none;
+    background-color: #FFEE58;
+}
